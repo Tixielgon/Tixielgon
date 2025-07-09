@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Me atrae mucho la tecnolgía y como va avanzando todo en el mundo, como una sola herramienta puede tener derrepente cientos de usos diferentes, como una tecnología se puede adaptar a un campo que antes se pensaría imposible.
+
+Soy una persona curiosa que le gusta aprender el porqué de muchas cosas, recientemente, terminé un bootcamp para poder empezar en el mundo tech como QA Engineer por parte de TripleTen, aprendí el uso de herramientas nuevas como, SQL, python, postman, android studio, JIRA entre otras para el correcto proceso de un test.
+
+Tengo experiencia en el área de electrónica, electricidad y video que espero poder integrar en algún momento a mi nuevo camino por el área tecnológica
 <!--
 **Tixielgon/Tixielgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
