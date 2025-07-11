@@ -6,7 +6,7 @@ Soy una persona muy curiosa y me emociona estar aprendiendo cosas nuevas, ahora 
 
 Una de mis fortalezas es que suelo aprender rápido y tengo una curiosidad muy insistente a veces en aprender nuevas cosas que me lleva a explorar, investigar y aprender nuevos conocimientos.
 
-**Te recomiendo ver mis repositorios para que puedas ver lo que pude aprender y aplicar en mi nuevo aprendizaje**
+**Te recomiendo ver mis repositorios para que puedas ver lo que pude aprender y aplicar en mi nuevo camino**
 
 
 ## Technical Skills & Tools
