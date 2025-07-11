@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 Actualmente estoy en mi desarrollo como QA Engineer JR, recien terminé un bootcamp \
-que me permitió obtener el conocimiento necesario para poder empezar en el mundo tech.
+🌱 Soy una persona muy curiosa y me emociona estar aprendiendo cosas nuevas, \
+ahora estoy empezando en una nueva aventura hacia el mundo tech como QA Engineer, \
+aunque siendo nivel Jr estoy muy inspirado en poder empezar a aplicar los conocimientos que he adquirido.
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
