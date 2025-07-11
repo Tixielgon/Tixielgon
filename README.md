@@ -37,4 +37,4 @@ Una de mis fortalezas es que suelo aprender rápido y tengo una curiosidad muy i
 </p>
 <br>
 
-Last Edited on: 10/07/2025
+Última vez actualizado: 10/07/2025
