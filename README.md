@@ -1,4 +1,4 @@
-# Hola! QA Engineer JR buscando mejorar cada día y ser mejor :wave:
+# Hola! QA Engineer JR buscando mejorar cada día :wave:
 
 ## Háblame de ti :sunglasses:
 
