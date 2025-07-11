@@ -1,32 +1,40 @@
-<h1 align="center">Hola 👋, Soy Emanuel Hernández</h1>
+# Hola! QA Engineer JR buscando mejorar cada día y ser mejor :wave:
+
+## Háblame de ti :sunglasses:
+
+Soy una persona muy curiosa y me emociona estar aprendiendo cosas nuevas, ahora estoy empezando en una nueva aventura hacia el mundo tech como QA Engineer, aunque siendo nivel Jr estoy muy inspirado en poder empezar a aplicar los conocimientos que he adquirido.
+
+Una de mis fortalezas es que suelo aprender rápido y tengo una curiosidad muy insistente a veces en aprender nuevas cosas que me lleva a explorar, investigar y aprender nuevos conocimientos.
+
+**Te recomiendo ver mis repositorios para que puedas ver lo que pude aprender y aplicar en mi nuevo aprendizaje**
 
 
+## Technical Skills & Tools
+
+- [Python](https://docs.python.org/3/) - Lenguaje en potencia por su simplicidad y su gran alcance principalmente para IA.
+- [Git](https://git-scm.com/) - Seguimiento de los proyectos y poder cometer errores sin dañar la estructura principal.
+- [Postman](https://learning.postman.com/docs/introduction/overview/) - Excelente software para procesamiento de API que lo mantiene simple.
+- [SQL](https://es.wikipedia.org/wiki/SQL) - De los mejores para almacenar, consultar y manipular datos.
+- [JIRA](https://www.atlassian.com/es/software/jira/guides/getting-started/introduction#what-is-jira-software) - La mejor herramienta para gestión de proyectos.
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Que tal unos puntos? :heavy_check_mark:
 
-🌱 Soy una persona muy curiosa y me emociona estar aprendiendo cosas nuevas, \
-ahora estoy empezando en una nueva aventura hacia el mundo tech como QA Engineer, \
-aunque siendo nivel Jr estoy muy inspirado en poder empezar a aplicar los conocimientos que he adquirido.
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+- Actualmente estoy en busqueda de trabajo.
+- Estoy aprendiendo más sobre python.
+- Me puedes contacter en mi  [correo](mailto:jesus_emanuel_hb@hotmail.com)
+- **Conecta conmigo en mi [LinkedIn](https://www.linkedin.com/in/jemanuelhb0394/)**
+- Dato curioso, dí un giro muy grande en mi carrera para perseguir una mejor vida y tiempo con mi familia.
+- 
+## Y mis estadísticas? :bar_chart:
 
-
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Tixielgon&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tixielgon&layout=compact&theme=gruvbox&hide_border=true" alt="Tixielgon Top Languages"/>
+  </a>
 </p>
 <br>
 
-
-<hr width="36%" >
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Tixielgon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tixielgon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tixielgon&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+Last Edited on: 10/07/2025
