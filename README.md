@@ -22,7 +22,7 @@ Una de mis fortalezas es que suelo aprender rápido y tengo una curiosidad muy i
 
 - Actualmente estoy en busqueda de trabajo.
 - Estoy aprendiendo más sobre python.
-- Me puedes contacter en mi  [correo](mailto:jesus_emanuel_hb@hotmail.com)
+- Me puedes contactar en mi  [correo](mailto:jesus_emanuel_hb@hotmail.com)
 - **Conecta conmigo en mi [LinkedIn](https://www.linkedin.com/in/jemanuelhb0394/)**
 - Dato curioso, dí un giro muy grande en mi carrera para perseguir una mejor vida y tiempo con mi familia.
  
